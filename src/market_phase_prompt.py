@@ -1,4 +1,3 @@
-「請全程使用台灣慣用語與繁體中文（Traditional Chinese）產出所有分析報告與看板內容。」
 # -*- coding: utf-8 -*-
 """Prompt rendering for Issue #1386 runtime market phase context."""
 
